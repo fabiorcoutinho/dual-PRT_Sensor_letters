@@ -3,3 +3,5 @@ Matlab script created for the article "A fast and improved dual-PRT Doppler tech
 The script needs as input a .mat file acquired from a NI PXI system
 It outputs the spatialtemporal velocity map and a spatial velocity profile
 Please refer to the paper/script comments for more details
+Main File: ProcessSensorLettersLivePXI.mlx
+Matlab R2021 or later
